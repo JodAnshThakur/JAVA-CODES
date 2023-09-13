@@ -1,0 +1,7 @@
+HOW TO APPROACH PATTENN PROBLEMS -->
+
+<----------------------------- A L G O R I T H M ---------------------------->
+1-> First check how many lines are present in the pattern or we can say how many rows are there in the pattern which will give the idea for creating the outer loop, whose main fucntion is to just iterate through the rows||lines of the pattern.
+
+2-> Second we have identify for every row how many columns are present in it.
+3-> Then we have to check what type elements are there in the column.

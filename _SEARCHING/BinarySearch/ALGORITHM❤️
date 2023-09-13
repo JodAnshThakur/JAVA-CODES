@@ -1,0 +1,17 @@
+❤️ Binary search is the best and optimized way of searching ❤️ 0 --> THE MOST IMPORTANT THING BEFORE DOING BINARY search THE ARRAY SHOULD BE SORTED🥲.1 --> We have to
+define two integer --> start and end to the array. 2 --> Then we check wheather
+the target element is greator than or less than the mid element or target
+element is equal to the mid element. --> NOTE--> The best case when we find the
+target elementt at the middle. 3 --> If the element is less than the middle one
+then start remains same but end becomes [end = mid-1]. 4 --> If the elemennt is
+greator than the middle element the start becomes [start = mid+1], but end
+remains same. 5 --> This whole process continues again and again until the
+element comes at the mid point.
+
+//                                                                                                  //
+Formula used for calculating the mid value -->
+
+1 -> The basic fomula we should use is ( mid = (start + end) / 2 ),
+     but when we have to deal with large number of element then while adding (start + end) the integer can be excceded🥲 and we will get an error🥶 to cure this bullshit we have to use new fomula which works on  simple mathematics .
+
+2 --> The new formula is ✓-> start + (end - start) / 2 ❤️

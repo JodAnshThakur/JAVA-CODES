@@ -1,0 +1,833 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "JAVA CODES_edd4a4be"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch_Algo_Ascending",
+      "request": "launch",
+      "mainClass": "_SEARCHING.BinarySearch.BinarySearch_Algo_Ascending",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "OperationsOnVariable",
+      "request": "launch",
+      "mainClass": "Lessons.OperationsOnVariable",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "none",
+      "request": "launch",
+      "mainClass": "Lessons.none",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "EscapeSequences",
+      "request": "launch",
+      "mainClass": "Lessons.EscapeSequences",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "PrecedenceOfOperators",
+      "request": "launch",
+      "mainClass": "Lessons.PrecedenceOfOperators",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "Try_catch",
+      "request": "launch",
+      "mainClass": "Lessons.Try_catch",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateEle_MICROSOFTQUES",
+      "request": "launch",
+      "mainClass": "_SORTING.CYCLE_SORT.INTERVIEW_QUESTIONS.DuplicateEle_MICROSOFTQUES",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateEle",
+      "request": "launch",
+      "mainClass": "_SORTING.CYCLE_SORT.INTERVIEW_QUESTIONS.DuplicateEle",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "FindingNStoringMissNO_GOOGLE_QUES",
+      "request": "launch",
+      "mainClass": "_SORTING.CYCLE_SORT.INTERVIEW_QUESTIONS.FindingNStoringMissNO_GOOGLE_QUES",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "SirName",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.SirName",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "SplittingString",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.SplittingString",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "CountingConsonants",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.CountingConsonants",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "CountingVowels",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.CountingVowels",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "CommonFactors",
+      "request": "launch",
+      "mainClass": "JavaProMax.Loop.CommonFactors",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "Adding2Arrays_toNewArray_UserChoice",
+      "request": "launch",
+      "mainClass": "Lessons.OneD_Arrays.Adding2Arrays_toNewArray_UserChoice",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "Adding2Arrays_toNewArray",
+      "request": "launch",
+      "mainClass": "Lessons.OneD_Arrays.Adding2Arrays_toNewArray",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "FindingMissingNO_AMAZONQUES",
+      "request": "launch",
+      "mainClass": "_SORTING.CYCLE_SORT.FindingMissingNO_AMAZONQUES",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "CycleSort_ALGO",
+      "request": "launch",
+      "mainClass": "_SORTING.CYCLE_SORT.CycleSort_ALGO",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "_SORTING.CYCLE_SORT.test",
+      "projectName": "JAVA CODES_86e8da9"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort_UserChoice",
+      "request": "launch",
+      "mainClass": "_SORTING.BUBBLE_SORT.BubbleSort_UserChoice",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort_InDescending",
+      "request": "launch",
+      "mainClass": "_SORTING.BUBBLE_SORT.BubbleSort_InDescending",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort_InAscending",
+      "request": "launch",
+      "mainClass": "_SORTING.BUBBLE_SORT.BubbleSort_InAscending",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "Bubble_Sorting",
+      "request": "launch",
+      "mainClass": "_SORTING.BUBBLE_SORT.Bubble_Sorting",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch_CeillingNumber",
+      "request": "launch",
+      "mainClass": "_SEARCHING.BinarySearch.BinarySearch_CeillingNumber",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch_Algo_Ascending",
+      "request": "launch",
+      "mainClass": "_SEARCHING.BinarySearch.BinarySearch_Algo_Ascending",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch_OrderAgnostics",
+      "request": "launch",
+      "mainClass": "_SEARCHING.BinarySearch.BinarySearch_OrderAgnostics",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch_DescendingOrder",
+      "request": "launch",
+      "mainClass": "_SEARCHING.BinarySearch.BinarySearch_DescendingOrder",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch_Algo",
+      "request": "launch",
+      "mainClass": "_SEARCHING.BinarySearch.BinarySearch_Algo",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "CountNo_DigitsInNum",
+      "request": "launch",
+      "mainClass": "JavaProMax.DigitHandling.CountNo_DigitsInNum",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "CountEvenNumDigits",
+      "request": "launch",
+      "mainClass": "LinearSearch.CountEvenNumDigits",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch_ForMinEle",
+      "request": "launch",
+      "mainClass": "LinearSearch.LinearSearch_ForMinEle",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch_ForMaxEle",
+      "request": "launch",
+      "mainClass": "LinearSearch.LinearSearch_ForMaxEle",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch_MaxElement",
+      "request": "launch",
+      "mainClass": "LinearSearch.LinearSearch_MaxElement",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch_In2DArray",
+      "request": "launch",
+      "mainClass": "LinearSearch.LinearSearch_In2DArray",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch_UsingRange",
+      "request": "launch",
+      "mainClass": "LinearSearch.LinearSearch_UsingRange",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch_UsingForEachLoop",
+      "request": "launch",
+      "mainClass": "LinearSearch.LinearSearch_UsingForEachLoop",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "StringToCharArray_Search",
+      "request": "launch",
+      "mainClass": "LinearSearch.StringToCharArray_Search",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "StringToArray",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.StringToArray",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearchInStrings",
+      "request": "launch",
+      "mainClass": "LinearSearch.LinearSearchInStrings",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearching",
+      "request": "launch",
+      "mainClass": "LinearSearch.LinearSearching",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "MaxRange",
+      "request": "launch",
+      "mainClass": "Lessons.OneD_Arrays.MaxRange",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "MinEle",
+      "request": "launch",
+      "mainClass": "Lessons.OneD_Arrays.MinEle",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "MaxEle",
+      "request": "launch",
+      "mainClass": "Lessons.OneD_Arrays.MaxEle",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "SwapingArrayEle",
+      "request": "launch",
+      "mainClass": "Lessons.OneD_Arrays.SwapingArrayEle",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "AddingValues_Iteration",
+      "request": "launch",
+      "mainClass": "DSA.AddingValues_Iteration",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "IterationOnArrayList",
+      "request": "launch",
+      "mainClass": "DSA.IterationOnArrayList",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "Array_List",
+      "request": "launch",
+      "mainClass": "DSA.Array_List",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "MatrixPrinting",
+      "request": "launch",
+      "mainClass": "Lessons.TwoD_Arrays.MatrixPrinting",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "Input_Jod",
+      "request": "launch",
+      "mainClass": "Lessons.TwoD_Arrays.Input_Jod",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "InputEle_AccessValue",
+      "request": "launch",
+      "mainClass": "Lessons.TwoD_Arrays.InputEle_AccessValue",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "TakingeleInput",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.TakingeleInput",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "none",
+      "request": "launch",
+      "mainClass": "Lessons.none",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "DataTypes",
+      "request": "launch",
+      "mainClass": "Lessons.DataTypes",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "First",
+      "request": "launch",
+      "mainClass": "JavaProMax.PatternPro.First",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "EvenElements",
+      "request": "launch",
+      "mainClass": "JavaProMax.DigitHandling.EvenElements",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "CountCharFreq",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.CountCharFreq",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "CountUpperLowerDigit",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.CountUpperLowerDigit",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "CharCount",
+      "request": "launch",
+      "mainClass": "JavaProMax.CharCount",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "JavaProMax.Fun_Meth.Palindrome",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "Greetings",
+      "request": "launch",
+      "mainClass": "JavaProMax.Fun_Meth.Greetings",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "ChangingArrVal",
+      "request": "launch",
+      "mainClass": "JavaProMax.Fun_Meth.ChangingArrVal",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "SwapValue",
+      "request": "launch",
+      "mainClass": "JavaProMax.Fun_Meth.SwapValue",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "SwappingNumber",
+      "request": "launch",
+      "mainClass": "JavaProMax.SwappingNumber",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "reversingDigit",
+      "request": "launch",
+      "mainClass": "JavaProMax.DigitHandling.reversingDigit",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "Star",
+      "request": "launch",
+      "mainClass": "JavaProMax.PatternPro.Star",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "addingVal",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.addingVal",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "count",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.count",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "eleFactor",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.eleFactor",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "Sum_Avg",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.Sum_Avg",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "evenEle",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.evenEle",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "reverse",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.reverse",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "SumUsingReturn",
+      "request": "launch",
+      "mainClass": "JavaProMax.Fun_Meth.SumUsingReturn",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "JavaProMax.Fun_Meth.Sum",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "ExpressionSolving",
+      "request": "launch",
+      "mainClass": "Practice_Questions.ExpressionSolving",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "IntegerCheck",
+      "request": "launch",
+      "mainClass": "Practice_Questions.IntegerCheck",
+      "projectName": "JAVA CODES_a71e7619"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Projects.Calculator",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Try_catch",
+      "request": "launch",
+      "mainClass": "Lessons.Try_catch",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "TwoDArray",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.TwoDArray",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "AccessingArray",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.AccessingArray",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Arrays_Intro",
+      "request": "launch",
+      "mainClass": "Lessons.Arrays.Arrays_Intro",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "continue_Stat",
+      "request": "launch",
+      "mainClass": "Lessons.Statements.continue_Stat",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "break_Stat",
+      "request": "launch",
+      "mainClass": "Lessons.Statements.break_Stat",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "NumPrUsingDo_While",
+      "request": "launch",
+      "mainClass": "Lessons.Loops.NumPrUsingDo_While",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "NumPrUsingFor",
+      "request": "launch",
+      "mainClass": "Lessons.Loops.NumPrUsingFor",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "PrintingNumber",
+      "request": "launch",
+      "mainClass": "Lessons.Loops.PrintingNumber",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "SwitchCase",
+      "request": "launch",
+      "mainClass": "Lessons.SwitchCase",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "voting",
+      "request": "launch",
+      "mainClass": "Lessons.ConditionalStatements.voting",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "concat",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.concat",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Random",
+      "request": "launch",
+      "mainClass": "Lessons.Random",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "MathsFunctions",
+      "request": "launch",
+      "mainClass": "Lessons.MathsFunctions",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "IndexOf",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.IndexOf",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "endsWith",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.endsWith",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "UpperLower",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.UpperLower",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "upperCase",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.upperCase",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "contains",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.contains",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "contains",
+      "request": "launch",
+      "mainClass": "Lessons.COnditionalStatements.voting",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Concatenation",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.Concatenation",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Constructors",
+      "request": "launch",
+      "mainClass": "Lessons.Constructors.Constructors",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "DataTypes",
+      "request": "launch",
+      "mainClass": "Lessons.DataTypes",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "EscapeSequences",
+      "request": "launch",
+      "mainClass": "Lessons.EscapeSequences",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "FinalKeyword",
+      "request": "launch",
+      "mainClass": "Lessons.FinalKeyword",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "Lessons.HelloWorld",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "OperationsOnVariable",
+      "request": "launch",
+      "mainClass": "Lessons.OperationsOnVariable",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Arithmatic",
+      "request": "launch",
+      "mainClass": "Lessons.Operators.Arithmatic",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Conditional",
+      "request": "launch",
+      "mainClass": "Lessons.Operators.Conditional",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "IncreDecre",
+      "request": "launch",
+      "mainClass": "Lessons.Operators.IncreDecre",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Logical",
+      "request": "launch",
+      "mainClass": "Lessons.Operators.Logical",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "PrecedenceOfOperators",
+      "request": "launch",
+      "mainClass": "Lessons.PrecedenceOfOperators",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "PrintMethods",
+      "request": "launch",
+      "mainClass": "Lessons.PrintMethods",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "ScannerInput",
+      "request": "launch",
+      "mainClass": "Lessons.ScannerInput",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Variables",
+      "request": "launch",
+      "mainClass": "Lessons.Variables",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "Length",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.Length",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "EqualStrings",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.EqualStrings",
+      "projectName": "Java_451d81e6"
+    },
+    {
+      "type": "java",
+      "name": "charAt",
+      "request": "launch",
+      "mainClass": "Lessons.StringFunctions.charAt",
+      "projectName": "Java_451d81e6"
+    }
+  ]
+}
