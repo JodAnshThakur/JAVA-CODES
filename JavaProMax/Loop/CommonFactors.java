@@ -16,7 +16,7 @@ public class CommonFactors {
         sc.close();
         for (int i = 1; i <= first_nu; i++) {
             int com_factor = 0;
-            if (first_nu % i == 0 || sec_nu % i == 0) {
+            if (first_nu % i == 0 && sec_nu % i == 0) {
                 com_factor = i;
             } else {
                 i++;

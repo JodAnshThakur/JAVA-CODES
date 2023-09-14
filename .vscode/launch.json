@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CharCount",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.CharCount",
+      "projectName": "JAVA CODES_edd4a4be"
+    },
+    {
+      "type": "java",
+      "name": "CommonFactors",
+      "request": "launch",
+      "mainClass": "JavaProMax.Loop.CommonFactors",
+      "projectName": "JAVA CODES_edd4a4be"
+    },
+    {
+      "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "Test",
