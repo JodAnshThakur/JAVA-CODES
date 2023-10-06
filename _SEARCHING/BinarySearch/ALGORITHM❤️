@@ -1,8 +1,8 @@
-❤️ Binary search is the best and optimized way of searching ❤️ 0 --> THE MOST IMPORTANT THING BEFORE DOING BINARY search THE ARRAY SHOULD BE SORTED🥲.1 --> We have to
-define two integer --> start and end to the array. 2 --> Then we check wheather
+❤️ Binary search is the best and optimized way of searching ❤️  --> THE MOST IMPORTANT THING BEFORE DOING BINARY search is THE ARRAY GIVEN SHOULD BE SORTED OTHERWISE SEARCHING WILL NOT GIVE A PROPER REQUIRED RESULTS🥲.1 --> We have to
+define two integer --> start and end to the array. 2 --> Then we check whether
 the target element is greator than or less than the mid element or target
 element is equal to the mid element. --> NOTE--> The best case when we find the
-target elementt at the middle. 3 --> If the element is less than the middle one
+target element at the middle. 3 --> If the element is less than the middle one
 then start remains same but end becomes [end = mid-1]. 4 --> If the elemennt is
 greator than the middle element the start becomes [start = mid+1], but end
 remains same. 5 --> This whole process continues again and again until the

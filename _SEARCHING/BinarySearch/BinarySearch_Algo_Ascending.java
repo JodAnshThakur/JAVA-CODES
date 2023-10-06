@@ -8,7 +8,7 @@ import java.util.Scanner;
 */
 public class BinarySearch_Algo_Ascending {
     public static void main(String[] args) {
-        int[] arr = { 14, -87, -96, -24, -8, 0, 52 }; // The array should be sorted
+        int[] arr = { -87, -96, -24, -8, 0, 52 }; // The array given should be sorted
         Scanner sc = new Scanner(System.in);
         System.out.println("Element to be Searched :-->");
         int target = sc.nextInt();
