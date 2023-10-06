@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SirName",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.SirName",
+      "projectName": "JAVA CODES_edd4a4be"
+    },
+    {
+      "type": "java",
       "name": "CountUpperLowerDigit",
       "request": "launch",
       "mainClass": "JavaProMax.StringHandling.CountUpperLowerDigit",

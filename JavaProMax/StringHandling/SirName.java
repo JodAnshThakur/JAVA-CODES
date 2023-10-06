@@ -1,5 +1,5 @@
 /*
- * Program to print the Sirname followed by the first name and second name first letter.
+ * Program to print the Sirname , including the first letter of the first and second name.
  * Example :=> Input = Ansh singh thakur
  *             Output = THAKUR A S
  */
