@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinearSearching",
+      "request": "launch",
+      "mainClass": "_SEARCHING.LinearSearch.LinearSearching",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "BinarySearch_FloorNumber",
       "request": "launch",
       "mainClass": "_SEARCHING.BinarySearch.BinarySearch_FloorNumber",
