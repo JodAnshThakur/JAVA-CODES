@@ -17,7 +17,7 @@ public class BinarySearch_FloorNumber {
         int start = 0;
         int end = arr.length;
 
-        while (start < end) {
+        while (start <= end) {
             int mid = start + (end - start) / 2;
             if (target < arr[mid]) {
                 end = mid - 1;
@@ -27,6 +27,6 @@ public class BinarySearch_FloorNumber {
                 return arr[mid];
             }
         }
-        return arr[start];
+        return arr[end];
     }
 }
