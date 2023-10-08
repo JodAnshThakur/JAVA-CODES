@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class LinearSearch_In2DArray {
     public static void main(String[] args) {
+
         /*
          * Searching element in a 2D array.
          */
@@ -29,7 +30,7 @@ public class LinearSearch_In2DArray {
             for (int column = 0; column < _2Darray[row].length; column++) {
                 if (_2Darray[row][column] == target) {
                     return new int[] { row, column };// As it is not intialised so we have to initialise it by new
-                                                     // int[]{row, column
+                    // int[]{row, column
                 }
             }
         }
