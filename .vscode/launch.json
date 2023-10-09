@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BubbleSort_DESC_ALGO",
+      "request": "launch",
+      "mainClass": "_REVISED.BubbleSort_DESC_ALGO",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort_ALGO",
+      "request": "launch",
+      "mainClass": "_REVISED.BubbleSort_ALGO",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "LinearSearch_ForMinEle",
       "request": "launch",
       "mainClass": "_REVISED.LinearSearch_ForMinEle",

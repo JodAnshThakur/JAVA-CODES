@@ -1,5 +1,5 @@
 --> Bubble sort is also called as sinking sort and exchange sort .
-In bubble sort, sorting takes place one by one using a loop, firstly the biggest number in the loop is arranged then in the next loop execution the next biggest number will be placed to the second last index(case if ascending order soting takes place), like this all the elements are arranged.
+In bubble sort, sorting takes place one by one using a loop, firstly the biggest number in the loop is arranged then in the next loop execution the next biggest number will be placed to the second last index(case if ascending order sorting takes place), like this all the elements are arranged.
 --
 <>--------------------------------❤️ A L G O R I T H M ❤️------------------------------<>
 
@@ -10,7 +10,7 @@ First loop (int i = 0; i<arr.length; i++){
 this loop will help to arrange number one by one when the first largest number is arranged then the value of i will be increased to 1.
 }
 Second loop (int j = 1 ; j<arr.length - i;j++){
-this loop will check whether the element in the array is smaller than the element just before it "thats why it starts from 1" and as the i increses this means that -- jitni i ki value hogi utne elements last me arrange ho chuke hai to j ko koe jarurat nahi arrange karne ki isiliye j unpe iterate nahi karna chahiye-- : thats why "arr.length-1"
+this loop will check whether the element in the array is smaller than the element just before it "thats why it starts from 1" and as  i increses this means that -- jitni i ki value hogi utne elements last me arrange ho chuke hai to j ko koe jarurat nahi arrange karne ki isiliye j unpe iterate nahi karna chahiye-- : thats why "arr.length-1"
 }
 
 2 -->
