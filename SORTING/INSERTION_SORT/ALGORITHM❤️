@@ -1,4 +1,4 @@
---> Insertion sorting is the optimized of sorting having less time complexity and is best method of sorting to apply whwn we have less number of elements in the array.
+--> Insertion sorting is the optimized of sorting having less time complexity and is best method of sorting to apply when we have less number of elements in the array.
 
 The worst case in this sorting is when the array is sorted in descending order.
 The best case in this sorting is when the array is sorted in ascending order.
@@ -13,7 +13,7 @@ for(int j = i+1; j>0;j--){
 Is loop me j -> i+1 se start hoga because hame hamesha ek-ek element ko access karke uske pahle wale element(j-1) se compare karenge,
 hamesha j > 0 hona chaiye kyuki jab i = 0 hoga tab j = 1 hoga aur j-- hone ke baad wo bhi 0 hojayega to compare karne ke liye element to hoga hi nahi isliye use greator than 0 to hona hi padega. 
 
-    NOTE*-> Insertion sort me ham ek bar me do elements ko compare karke replace karenge aur agar by chance arr[j]> arr[j-1] to ham break karenge j loop for making our code more optimized auir isse time complexity ki kam hogi.
+    NOTE*-> Insertion sort me ham ek bar me do elements ko compare karke replace karenge aur agar by chance arr[j]> arr[j-1] to ham break karenge j loop for making our code more optimized aur isse time complexity bhi kam hogi.
 
 3 - Then we will just call the swap function and replace the values of arr[j] and arr[j-1];
 }
