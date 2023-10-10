@@ -8,6 +8,27 @@
       "type": "java",
       "name": "DuplicateEle",
       "request": "launch",
+      "mainClass": "_REVISED.DuplicateEle",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "CycleSort_ALGO",
+      "request": "launch",
+      "mainClass": "SORTING.CYCLE_SORT.CycleSort_ALGO",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "CycleSort",
+      "request": "launch",
+      "mainClass": "_REVISED.CycleSort",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "DuplicateEle",
+      "request": "launch",
       "mainClass": "SORTING.CYCLE_SORT.DuplicateEle",
       "projectName": "JAVA CODES_12cd20d4"
     },
