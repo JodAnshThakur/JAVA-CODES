@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class SelectionSort_UserChoice {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("How many elemennt you want to enter in the array :->");
+        System.out.println("How many element you want to enter in the array :->");
         int arr_len = sc.nextInt();
         int[] arr = new int[arr_len];
         for (int i = 0; i < arr_len; i++) {
