@@ -3,14 +3,25 @@ package _REVISED;
 public class DuplicateEle {
     public static void main(String[] args) {
 
-        int[] arr = { 5, 3, 4, 2, 1, 4 };
+        int[] arr = { 1, 2, 3, 4, 5 };
         for (int i = 0; i < arr.length; i++) {
-            int temp = arr[i];
-            for (int j = 0; j < arr.length; j++) {
-                if (temp == arr[j]) {
-                    System.out.println("The duplicate element is :-->" + j);
-                }
+            int temp_ele = arr[i];
+            searchDuplicate(arr, temp_ele);
+            break; // For one check
+        }
+    }
+
+    static void searchDuplicate(int[] arr, int temp_ele) {
+        int count = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == temp_ele) {
+                count++;
             }
+        }
+        if (count != 1) {
+            System.out.println("The Duplicate Number is :--> " + temp_ele);
+        } else {
+            System.out.println("No duplicate number found.");
         }
     }
 }
