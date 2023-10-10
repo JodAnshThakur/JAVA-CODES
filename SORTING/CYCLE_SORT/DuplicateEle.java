@@ -2,11 +2,11 @@ package SORTING.CYCLE_SORT;
 
 public class DuplicateEle {
     public static void main(String[] args) {
-        int[] arr = { 1, 2, 3, 4, 5 };
-        for (int i = 0; i < arr.length; i++) {
+        int[] arr = { 1, 2, 3, 4, 5, 1 };
+        for (int i = 0; i < arr.length;) {
             int temp_ele = arr[i];
             searchDuplicate(arr, temp_ele);
-            break; // For one check
+            break;
         }
     }
 
