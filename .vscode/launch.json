@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ques2_PrimeorNot",
+      "request": "launch",
+      "mainClass": "_DSA_PRACTICE_QUES.Ques2_PrimeorNot",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "Ques1_MultipleCheck",
+      "request": "launch",
+      "mainClass": "_DSA_PRACTICE_QUES.Ques1_MultipleCheck",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "DuplicateEle_MICROSOFTQUES",
       "request": "launch",
       "mainClass": "SORTING.CYCLE_SORT.INTERVIEW_QUESTIONS.DuplicateEle_MICROSOFTQUES",
