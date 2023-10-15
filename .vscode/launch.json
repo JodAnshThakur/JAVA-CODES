@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ques8_SubStringCheck",
+      "request": "launch",
+      "mainClass": "_DSA_PRACTICE_QUES.Ques8_SubStringCheck",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "Ques7_Factorial",
+      "request": "launch",
+      "mainClass": "_DSA_PRACTICE_QUES.Ques7_Factorial",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "Ques6_ReverseOfString",
+      "request": "launch",
+      "mainClass": "_DSA_PRACTICE_QUES.Ques6_ReverseOfString",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "Ques5_PalindromeStringCheck",
+      "request": "launch",
+      "mainClass": "_DSA_PRACTICE_QUES.Ques5_PalindromeStringCheck",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "Ques4_FindingMultipleTillGivenNum",
+      "request": "launch",
+      "mainClass": "_DSA_PRACTICE_QUES.Ques4_FindingMultipleTillGivenNum",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "Ques3_FindingSumTillGivenNum",
+      "request": "launch",
+      "mainClass": "_DSA_PRACTICE_QUES.Ques3_FindingSumTillGivenNum",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "Ques2_PrimeorNot",
       "request": "launch",
       "mainClass": "_DSA_PRACTICE_QUES.Ques2_PrimeorNot",
