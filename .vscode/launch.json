@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DataTypes",
+      "request": "launch",
+      "mainClass": "Lessons.DataTypes",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "none",
+      "request": "launch",
+      "mainClass": "Lessons.none",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "Ques8_SubStringCheck",
       "request": "launch",
       "mainClass": "_DSA_PRACTICE_QUES.Ques8_SubStringCheck",
