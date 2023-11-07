@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Adding2Arrays",
+      "request": "launch",
+      "mainClass": "_REVISED.Adding2Arrays",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "Adding2Arrays_toNewArray_UserChoice",
+      "request": "launch",
+      "mainClass": "JavaProMax.Arrays.Adding2Arrays_toNewArray_UserChoice",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "uppercase",
       "request": "launch",
       "mainClass": "_DSA_PRACTICE_QUES.uppercase",

@@ -1,5 +1,5 @@
 /*
- * Program to add the same index elements of the 2 Arrays and save the addition in the new array but here we are taking the  values of the arry from the user.
+ * Program to add the same index elements of the 2 Arrays and save the addition in the new array but here we are taking the  values of the array from the user.
  */
 
 package JavaProMax.Arrays;
@@ -33,5 +33,4 @@ public class Adding2Arrays_toNewArray_UserChoice {
         }
         System.out.println(Arrays.toString(new_arr));
     }
-
 }
