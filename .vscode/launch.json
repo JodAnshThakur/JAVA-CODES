@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SwappingArrayElement",
+      "request": "launch",
+      "mainClass": "_REVISED.SwappingArrayElement",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "Adding2Arrays",
       "request": "launch",
       "mainClass": "_REVISED.Adding2Arrays",
