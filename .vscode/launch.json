@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "uppercase",
+      "request": "launch",
+      "mainClass": "_DSA_PRACTICE_QUES.uppercase",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort_UserChoice",
+      "request": "launch",
+      "mainClass": "SORTING.BUBBLE_SORT.BubbleSort_UserChoice",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "DataTypes",
       "request": "launch",
       "mainClass": "Lessons.DataTypes",
