@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Projects.Calculator",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "StringToArray",
       "request": "launch",
       "mainClass": "JavaProMax.StringHandling.StringToArray",
