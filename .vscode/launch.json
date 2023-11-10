@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringToArray",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.StringToArray",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "SirName",
+      "request": "launch",
+      "mainClass": "_REVISED.SirName",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "CountingVowels",
+      "request": "launch",
+      "mainClass": "JavaProMax.StringHandling.CountingVowels",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "ChararcterFrequency",
+      "request": "launch",
+      "mainClass": "_REVISED.ChararcterFrequency",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "charCount",
       "request": "launch",
       "mainClass": "_REVISED.charCount",
