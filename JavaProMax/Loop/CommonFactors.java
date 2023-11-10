@@ -15,14 +15,8 @@ public class CommonFactors {
         int sec_nu = sc.nextInt();
         sc.close();
         for (int i = 1; i <= first_nu; i++) {
-            int com_factor = 0;
             if (first_nu % i == 0 && sec_nu % i == 0) {
-                com_factor = i;
-            } else {
-                i++;
-            }
-            if (com_factor != 0) {
-                System.out.print(com_factor + ", ");
+                System.out.print(i + ", ");
             }
         }
     }

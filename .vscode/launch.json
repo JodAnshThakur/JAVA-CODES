@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "charCount",
+      "request": "launch",
+      "mainClass": "_REVISED.charCount",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "CommonFactors",
+      "request": "launch",
+      "mainClass": "JavaProMax.Loop.CommonFactors",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "CommonFactor",
+      "request": "launch",
+      "mainClass": "_REVISED.CommonFactor",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "_REVISED.Palindrome",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
+      "name": "CountingDigits",
+      "request": "launch",
+      "mainClass": "_REVISED.CountingDigits",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "SwappingArrayElement",
       "request": "launch",
       "mainClass": "_REVISED.SwappingArrayElement",
