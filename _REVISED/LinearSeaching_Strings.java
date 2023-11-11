@@ -9,6 +9,7 @@ public class LinearSeaching_Strings {
         String to_be_checked = sc.nextLine();
         System.out.print("Enter the element :-> ");
         String target = sc.next();
+        sc.close();
         for (int i = 0; i < to_be_checked.length(); i++) {
             if (to_be_checked.charAt(i) == target.charAt(0)) {
                 System.out.println("Element found at index no : " + i);
