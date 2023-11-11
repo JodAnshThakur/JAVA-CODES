@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ForEach_LinearSeach",
+      "request": "launch",
+      "mainClass": "_REVISED.ForEach_LinearSeach",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "LinearSeachingUsingRange",
       "request": "launch",
       "mainClass": "_REVISED.LinearSeachingUsingRange",
