@@ -3,7 +3,7 @@ package _REVISED;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class LinearSearch_In2DArray {
+public class LinearSearch_In2DArrayusingReturn {
     public static void main(String[] args) {
         int[][] arr = {
                 { 95, 24, 61, 58, 36, 97 }, { 21, 87, 64, 95, 37 }

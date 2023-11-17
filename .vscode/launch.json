@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinearSIn2DArrayMINvalue",
+      "request": "launch",
+      "mainClass": "_REVISED.LinearSIn2DArrayMINvalue",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch_ForMinEle",
+      "request": "launch",
+      "mainClass": "_REVISED.LinearSearch_ForMinEle",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
+      "name": "LinearSInTwoDArray",
+      "request": "launch",
+      "mainClass": "_REVISED.LinearSInTwoDArray",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
+      "name": "LinearSInTwoDArray",
+      "request": "launch",
+      "mainClass": "_REVISED.LinearSInTwoDArray",
+      "projectName": "JAVA CODES_12cd20d4"
+    },
+    {
+      "type": "java",
       "name": "ForEach_LinearSeach",
       "request": "launch",
       "mainClass": "_REVISED.ForEach_LinearSeach",

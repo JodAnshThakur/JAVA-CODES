@@ -1,5 +1,5 @@
 
-package SEARCHING.LinearSearch;
+package SEARCHING._LinearSearch;
 
 public class LinearSearch_ForMaxEle {
     public static void main(String[] args) {

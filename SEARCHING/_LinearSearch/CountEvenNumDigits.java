@@ -1,4 +1,4 @@
-package SEARCHING.LinearSearch;
+package SEARCHING._LinearSearch;
 
 /*
  * Program to count total number of element in the array that contains even number of total digits:

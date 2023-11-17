@@ -1,4 +1,4 @@
-package SEARCHING.LinearSearch;
+package SEARCHING._LinearSearch;
 
 public class LinearSearch_ForMinEle {
     public static void main(String[] args) {
