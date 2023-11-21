@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinarySearch_Desc",
+      "request": "launch",
+      "mainClass": "_REVISED.BinarySearch_Desc",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "_REVISED.BinarySearch",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
       "name": "LinearSIn2DArrayMINvalue",
       "request": "launch",
       "mainClass": "_REVISED.LinearSIn2DArrayMINvalue",

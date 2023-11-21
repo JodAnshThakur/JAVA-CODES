@@ -22,7 +22,7 @@ public class BinarySearch_Algo_Ascending {
         int end = arr.length - 1;
 
         while (start <= end) { // Jabtak start end se chota hoga tabtak searching karega
-            int mid = start + (end - start) / 2; // How it works me ye formula kyu use kiya likha hai
+            int mid = start + (end - start) / 2; // Algorithm me ye formula kyu use kiya likha hai
 
             if (target < arr[mid]) {
                 end = mid - 1;

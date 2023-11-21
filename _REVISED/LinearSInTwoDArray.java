@@ -1,6 +1,5 @@
 package _REVISED;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class LinearSInTwoDArray {
