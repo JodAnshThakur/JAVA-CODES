@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "_REVISED.SelectionSort",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSort_Algo",
+      "request": "launch",
+      "mainClass": "SORTING.SELECTION_SORT.SelectionSort_Algo",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
+      "name": "SelectionSorting",
+      "request": "launch",
+      "mainClass": "_REVISED.SelectionSorting",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
+      "name": "ArrangingInAscendingOrder",
+      "request": "launch",
+      "mainClass": "_REVISED.ArrangingInAscendingOrder",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch_CeilingNumber",
+      "request": "launch",
+      "mainClass": "_REVISED.BinarySearch_CeilingNumber",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
       "name": "BinarySearch_Desc",
       "request": "launch",
       "mainClass": "_REVISED.BinarySearch_Desc",
