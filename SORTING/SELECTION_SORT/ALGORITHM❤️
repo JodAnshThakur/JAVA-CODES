@@ -7,7 +7,8 @@ Then we have put to second max element on the last second index and so on..
 
 <>--------------------------------❤️ A L G O R I T H M ❤️------------------------------<>
 
-1 -> First we have to assign a variable which will store the "max_index" always - Jaise hi ek element last index pe pahuch jayega to hame "max_index" ki value ko change karke last second index assign karana padega.
+1 -> First we have to assign a variable which will store the "max_index" always - Jaise hi ek element last index pe pahuch jayega to hame "max_index" ki 
+value ko change karke last second index assign karana padega.
 Thats why we have to use a loop which will change the value of the max_index after putting the max elements too their respective index position.
 
 for(int i = 0; i < arr.length; i++){

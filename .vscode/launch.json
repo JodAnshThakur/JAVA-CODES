@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SelectionSort1",
+      "request": "launch",
+      "mainClass": "_REVISED.SelectionSort1",
+      "projectName": "JAVA CODES_eb2c0beb"
+    },
+    {
+      "type": "java",
       "name": "SelectionSort",
       "request": "launch",
       "mainClass": "_REVISED.SelectionSort",
