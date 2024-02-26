@@ -9,7 +9,7 @@ public class IncreDecre {
 */
     int num = 1;
     System.out.println(num++); // Here 1 will be the output as it is post increment so after printing 1 the value will become 2;
-    System.out.println(num); // Here the ouput will be 2 as it is incremented
+//    System.out.println(num); // Here the ouput will be 2 as it is incremented
 
 /*
     * About increment :

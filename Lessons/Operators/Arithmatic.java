@@ -22,12 +22,13 @@ public class Arithmatic {
 
         int n1 = 100;
         int n2 = 2;
+        int a  = n1+n2;
 
-        System.out.println("The addition of the number is : " + (n1 + n2));
-        System.out.println("The subtraction of the number is : " + (n1 - n2));
-        System.out.println("The multiplication of the number is : " + n1 * n2);
-        System.out.println("The division of the number is : " + n1 / n2);
-        System.out.println("The modulo of the number is : " + n1 % n2);
+        System.out.println("The addition of n1 and n2"+" is "           +a);
+//        System.out.println("The subtraction of the number is : " + (n1 - n2));
+//        System.out.println("The multiplication of the number is : " + n1 * n2);
+//        System.out.println("The division of the number is : " + n1 / n2);
+//        System.out.println("The modulo of the number is : " + n1 % n2);
   }
     
 }

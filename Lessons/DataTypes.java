@@ -27,7 +27,7 @@ public class DataTypes {
         // 2 - double : The double primitive data type can help. double can hold
         // decimals as well as very large and very small numbers.
         double percentage = 91d; // We can add d for double like float If we dont add "d" there will be no such
-                                 // ansh
+                                 // error
                                  // error seen its upon us totally.
         System.out.println(percentage);
 
@@ -62,7 +62,7 @@ public class DataTypes {
 
         // 1- array-
         int[] arr = { 10, 2, 88, 99 };
-        System.out.println(arr[0]);
+        System.out.println(arr[2]);
 
         // 2 - string - A String literal is any sequence of characters enclosed in
         // double-quotes ("").
