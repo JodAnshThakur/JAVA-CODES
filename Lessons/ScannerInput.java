@@ -1,6 +1,6 @@
 package Lessons;
-import java.util.Scanner;
 
+import java.util.Scanner;
 
 public class ScannerInput {
     public static void main(String[] args) {
@@ -9,12 +9,11 @@ public class ScannerInput {
          * There are two input methods in scanner class :
          * 1 - next() - Takes only first word as input.
          * 2 - nextLine() - Takes whole sentence as input.
-        */
+         */
         // String name = sc.next(); // Will take the first word of the name only
         System.out.println("Enter you name : ");
 
-
-        String name = sc.nextLine(); // Will take the full name 
+        String name = sc.nextLine(); // Will take the full name
         System.out.println(name);
 
         System.out.println("Enter your age : "); // Taking string as input
@@ -25,8 +24,8 @@ public class ScannerInput {
 
         System.out.println("Enter 'true' if you are op oterwise enter 'faslse' :"); // Taking Boolean as input
         boolean op = sc.nextBoolean();
-        
-        System.out.println("How much will be your yealy earning in 2030 : "); // Taking 
+
+        System.out.println("How much will be your yearly earning in 2030 : "); // Taking
         double earning = sc.nextDouble();
 
         System.out.println("Your name is :" + name);
@@ -37,5 +36,5 @@ public class ScannerInput {
 
         sc.close(); // So that resources of sc dont leak
     }
-    
+
 }
