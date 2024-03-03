@@ -11,6 +11,7 @@ public class voting {
         // Now using the if- else statement we will check the user can vote or not.
 
         if(age>18){
+
             System.out.println("You can vote");
         } 
         else if(age==17){
